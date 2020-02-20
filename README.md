@@ -36,3 +36,5 @@ react-native run-ios
 ## other notes
 * React Native uses flexbox
 * no percents
+* Use defaultProps
+* TouchableOpacity
